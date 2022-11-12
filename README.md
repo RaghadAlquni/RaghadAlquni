@@ -11,7 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <h1> Hi there ![HiImg](https://user-images.githubusercontent.com/118015495/201467878-7790a4ab-ff1a-43ac-9822-ce6bac28da45.png)
-, I am Raghad Alquni </h1>
+  <h1> Hi there 👋 , I’m Raghad Alquni </h1>
  
   <h2> I am a Full Stack Web developer </h2>
+  
+  <div align=center>
+        ![IMG_9340](https://user-images.githubusercontent.com/118015495/201469571-20493c8e-e789-47b4-8378-a5ae9c9cf4a9.jpg)
+    </div>
