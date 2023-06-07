@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center>
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" alt="GitHub Img" height="350" width="350"/>
-</div>![image](https://user-images.githubusercontent.com/118015495/201521352-602f4455-2fe6-428b-9949-62647a3596e1.png)
-
+</div>
 
 
 - 👀 I’m currently open for new job opportunity.
