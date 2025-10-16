@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
  
 - 📄 Know about my experiences [Resume](https://user-images.githubusercontent.com/118015495/201517340-3895e094-e764-442f-9410-b1552303662f.png)
   
-- 🌱 I’m currently learning `ReactJs` and `React Native`
+- 🌱 I’m currently learning `ReactJs` , `JavaScript&TypeScript` and `UI/UX`
   
 - 📫 How to reach me **RaghadAlquni@gmail.com**
 
