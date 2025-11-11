@@ -25,9 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🌟 Always learning new things.
 
-Trining Projects (Bootcamp Work)
-<a href="https://github.com/raghadquni"> 
-https://github.com/raghadquni </a>
+Trining Projects (Bootcamp Work): </n>
+<a href="https://github.com/raghadquni"> https://github.com/raghadquni </a>
 
 <h3> Connect with me: </h3>
 <p>
