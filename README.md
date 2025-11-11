@@ -25,11 +25,15 @@ You can click the Preview link to take a look at your changes.
 
 - 🌟 Always learning new things.
 
+Trining Projects (Bootcamp Work)
+<a href="https://github.com/raghadquni"> <img src="https://img.icons8.com/fluency/512/behance.png" alt="behance icon" height="50" width="50" /> </a>
+
 <h3> Connect with me: </h3>
 <p>
 <a href="https://www.linkedin.com/in/raghad-alquni/"> <img src="https://img.icons8.com/fluency/512/linkedin.png" alt="Linkedin icon" height="50" width="50" /> </a>
 <a href="https://www.behance.net/raghadalquni"> <img src="https://img.icons8.com/fluency/512/behance.png" alt="behance icon" height="50" width="50" /> </a>
 <a href="mailto:RaghadAlquni@gmail.com"> <img src="https://img.icons8.com/color/512/gmail.png" alt="gmail icon" height="50" width="50" /> </a>
+ 
 </p>
 
 <h3> Skills </h3>
